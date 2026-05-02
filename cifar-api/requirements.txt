@@ -1,0 +1,15 @@
+# API
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.12
+
+# Inference — plain torch for macOS (no +cpu suffix needed)
+torch==2.6.0
+torchvision==0.21.0
+
+# Image handling
+Pillow==10.4.0
+
+# Testing (Phase 4)
+pytest==8.3.3
+httpx==0.27.2
