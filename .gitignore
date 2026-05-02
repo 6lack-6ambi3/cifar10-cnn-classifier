@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 .DS_Store
 cifar-api/.venv/
+*.pth
+*.png
+__pycache__/
